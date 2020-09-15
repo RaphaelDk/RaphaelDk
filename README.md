@@ -38,8 +38,8 @@
 [blindtest]: https://github.com/MyBlindTest
 
 [twitter]: https://twitter.com/RaphaelDkch
-[instagram]: https://www.instagram.com/moi_raphael_dakiche
-[linkedin]: https://www.linkedin.com/in/raphael-dakiche/
+[instagram]: https://www.instagram.com/raphael.dakiche
+[linkedin]: https://www.linkedin.com/in/raphael-dakiche
 
 [rubyonrails]: https://rubyonrails.org/
 [vuejs]: https://vuejs.org/
